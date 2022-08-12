@@ -1,2 +1,2 @@
-# Katana-denemesi-blender
+#   Katana-denemesi-blender(ilk blender projem)
 katana denemem
